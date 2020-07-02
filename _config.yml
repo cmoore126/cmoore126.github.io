@@ -1,11 +1,11 @@
 # Site settings
 author: Clayton Moore
-title: 
+title: Why Software Engineering is for me
 header-img: img/home-bg.png
 email: cmoorefour@gmail.com
 copyright_name: Clayton Moore
 description: > # this means to ignore newlines until "baseurl:"
-  
+  What made Software Engineering interesting 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cmoore126
