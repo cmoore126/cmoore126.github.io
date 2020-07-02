@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'how I became interested in software engineering'."
-date:       2020-07-02 17:01:00 +0000
+date:       2020-07-02 13:01:01 -0400
 permalink:  how_i_became_interested_in_software_engineering
 ---
 
